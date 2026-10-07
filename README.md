@@ -1,4 +1,4 @@
-# GoBang5 的博客
+# 王兆奇的博客
 
 网址：https://gobang5.github.io/
 
